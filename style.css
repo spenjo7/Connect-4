@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+	}
+	
+	canvas{
+	 height: 600px;
+	 width: 350px;
+	 /*border: 1px solid black;*/
+	 margin: 1rem;
+	}
+	
+	h1{ 
+	  text-align: center;
+	}
